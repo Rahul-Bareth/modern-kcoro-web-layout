@@ -68,6 +68,7 @@ button {
   padding: 22px 32px;
   font-size: 20px;
   border-radius: 9999px;
+  cursor: pointer;
 }
 
 .solid-btn {
@@ -101,6 +102,7 @@ li a {
   text-decoration: none;
   transition: 0.3s ease-in-out;
   color: white;
+  cursor: pointer;
 }
 
 li a:hover {
@@ -285,11 +287,13 @@ button {
   font-weight: 500;
   height: 65px;
   width: 255px;
+  cursor: pointer;
 }
 
 /* Footer-Section */
 
 footer {
+  padding: 0 8px;
   display: flex;
   margin-bottom: 48px;
   font-size: 18px;
@@ -318,6 +322,7 @@ ul li {
 
 li a {
   line-height: 31px;
+  cursor: pointer;
 }
 
 
@@ -337,12 +342,13 @@ li a {
 
 input {
   height: 50px;
-  width: 345px;
+  width: 340px;
   background: #13134d;
   border-radius: 70px;
   border: none;
   padding: 0 20px;
   font-size: 17px;
+  cursor: pointer;
 }
 
 .submit-btn {
@@ -358,6 +364,7 @@ input {
   font-weight: 500;
   letter-spacing: 2px;
   border: none;
+  cursor: pointer;
 }
 
 
